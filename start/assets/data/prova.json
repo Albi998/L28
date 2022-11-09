@@ -1,0 +1,72 @@
+{
+    "studenti": [
+        {
+            "id": 1,
+            "nome": "Alberto",
+            "cognome": "Scarsi",
+            "corso": 622,
+            "percorso": [
+                "front-end",
+                "back-end",
+                "fullstack"
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Cosimo",
+            "cognome": "Gargiullo",
+            "corso": 622,
+            "percorso": [
+                "front-end",
+                "back-end"
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Francesca",
+            "cognome": "Pozzi",
+            "corso": 622,
+            "percorso": [
+                "front-end"
+            ]
+        },
+        {
+            "id": 4,
+            "nome": "Riccardo",
+            "cognome": "Sennati",
+            "corso": 622,
+            "percorso": [
+                "back-end",
+                "fullstack"
+            ]
+        },
+        {
+            "id": 5,
+            "nome": "Laura",
+            "cognome": "Gaudencio",
+            "corso": 622,
+            "percorso": [
+                "front-end",
+                "back-end",
+                "fullstack"
+            ]
+        }
+    ],
+    "materie": [
+        {
+            "materia": "HTML"
+        },
+        {
+            "materia": "CSS"
+        },
+        {
+            "materia": "JavScript"
+        },
+        {
+            "materia": "SASS"
+        },
+        {
+            "materia": "Bootstrap"
+        }
+    ]
+}
